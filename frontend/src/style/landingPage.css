@@ -1,0 +1,199 @@
+.myBG {
+    height: 100vh;
+    background: url(../assets/bg/bg-atap.jpg);
+    background-size: cover;
+}
+
+.Nav-wrapped{
+    overflow: hidden;
+    background-color: #fffbfe;
+    top: 0;
+    position: fixed;
+    width: 100%;
+}
+
+.intro {
+    height: 400px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 1px;
+}
+
+.serviceBG {
+    height: 100vh;
+    background: url(../assets/bg/bg-nguli.jpg);
+    background-size: cover;
+    background-color: black
+}
+
+.service {
+    height: 200px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+
+.Isiservice{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 75px;
+}
+
+.Isiservice1 {
+    margin: 25px;
+}
+
+.Isiservice2 {
+    margin: 25px;
+}
+
+.Isiservice3 {
+    margin: 25px;
+}
+
+.Isiservice4 {
+    margin: 25px;
+}
+
+.titleIsiservice1{
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 0.3;
+    text-shadow: 2px 2px black;
+    letter-spacing: 1px;
+}
+
+.titleIsiservice2{
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 1px;
+}
+
+.TextServiceEdit{
+    font-size: 1rem;
+    font-weight: 450;
+    line-height: 1.2;
+    text-shadow: 2px 2px 1px black;
+    letter-spacing: 1px;
+    margin-top: 80px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+}
+
+.aboutBG {
+    height: 100vh;
+    background: url(../assets/bg/bg-nyemen.jpg);
+    background-size: cover;
+    background-color: black
+}
+
+.about {
+    height: 160px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.titleAbout{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 1px;
+}
+
+.DescAbout {
+    color: white;
+    margin-top: 30px;
+    font-size: 1rem;
+    font-weight: 450;
+    line-height: 1.2;
+    text-shadow: 2px 2px 1px black;
+    letter-spacing: 1px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: center;
+}
+
+.vmsabout {
+    margin: auto;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 80px;
+}
+
+.titleVMS {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 0.3;
+    text-shadow: 2px 2px black;
+    letter-spacing: 1px;
+}
+
+.VMS {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 0.3;
+    text-shadow: 2px 2px black;
+    letter-spacing: 1px;
+}
+
+.descVM {
+    font-size: 1rem;
+    font-weight: 450;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 1px;
+}
+
+.descWrapped {
+    margin-top: 20px;
+}
+
+.slogan {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 1px;
+}
+
+.contactBG {
+    height: 100vh;
+    background: url(../assets/bg/bg-4.jpg);
+    background-size: cover;
+    background-color: black
+}
+
+.contact{
+    height: 160px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.titleContact{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 1px;
+}
